@@ -1,0 +1,2 @@
+# minecraft_original_easy_create
+一个存储着jjl对于mc原版物品的简化合成（当然工作台这种没有）
